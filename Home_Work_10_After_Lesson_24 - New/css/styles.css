@@ -1,0 +1,50 @@
+.main_div{
+    width: 55%;
+    height: 50%;
+
+    background-color: rgb(0, 81, 255);
+    border: 1px solid rgb(0, 81, 255);
+    padding: 5%;
+    border-radius: 15px;
+}
+
+.form{
+    vertical-align: text-bottom;
+    
+}
+
+.date, .date2, .date3, .button{
+
+    width: 24%;
+    height: 30px;
+    /* border: 2px solid rgb(255, 0, 43); */
+    border: none;
+
+    border-radius: 4px;
+}
+
+#main_form button{
+    background-color: #14af43;
+    color: white;
+}
+
+ .container .users_cards{
+    margin-top: 3%;
+    width: 65%;
+    height: 50%;
+
+    background-color: rgb(0, 81, 255);
+    border: 1px solid rgb(0, 81, 255);
+    /* padding: 5%; */
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+    gap: 30px;
+}
+
+.users_cards:hover{
+    box-shadow: 7px 8px 9px 8px black;
+}
+
+
+
